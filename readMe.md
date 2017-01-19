@@ -53,7 +53,7 @@
 
 
 - 添加使用到的模块，下面是用到的模块名称
-
+```
 	smsVerify
 	fileBrowser
 	webBrowser
@@ -69,7 +69,7 @@
 	bookReader
 	fs
 	welcomePage
-
+```
 > 点击左侧 **模块**，然后在右侧再点击**模块库**，再在搜索框中分别输入如下模块名称搜索，搜索出来了，点击模块的右上角** +** 号
 
 ![](http://xf512.com/html/images/api5.jpg)
