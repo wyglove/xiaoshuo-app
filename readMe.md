@@ -41,10 +41,12 @@
 创建后即自动进入了本app的详细设置页面，开始进行如下设置
 - 端设置
 > 点击左侧 **端设置**
+
 ![](http://xf512.com/html/images/api3.jpg)
 
 - 创建安卓证书
 > 点击左侧 **证书**
+
 ![](http://xf512.com/html/images/api4.jpg)
 
    证书信息随意填写
@@ -52,21 +54,21 @@
 
 - 添加使用到的模块，下面是用到的模块名称
 
-smsVerify
-fileBrowser
-webBrowser
-speechRecognizer
-FNScanner
-audio
-UISearchBar
-personalCenter
-UILoading
-dialogBox
-qq
-wx
-bookReader
-fs
-welcomePage
+	smsVerify
+	fileBrowser
+	webBrowser
+	speechRecognizer
+	FNScanner
+	audio
+	UISearchBar
+	personalCenter
+	UILoading
+	dialogBox
+	qq
+	wx
+	bookReader
+	fs
+	welcomePage
 
 > 点击左侧 **模块**，然后在右侧再点击**模块库**，再在搜索框中分别输入如下模块名称搜索，搜索出来了，点击模块的右上角** +** 号
 
@@ -122,12 +124,16 @@ welcomePage
     <param name="android_app_secret" value="5c8d14b5601bb21209f04fff8542a791"/>
 </feature>
 ```
-面wx、qq、smsVerify 字段中，分别是 QQ登录、微信登录、手机注册发送验证码所需的appkey和seecret，你需要分别去微信开放平台和QQ开放平台以及mob去申请自己的key。
-[微信的申请教程地址http://docs.apicloud.com/Client-API/Open-SDK/wx](http://docs.apicloud.com/Client-API/Open-SDK/wx)
-[QQ的申请地址](http://docs.apicloud.com/Client-API/Open-SDK/qq)
-[smsVerify的申请地址](http://docs.apicloud.com/Client-API/Open-SDK/smsVerify)
+> wx、qq、smsVerify 字段中，分别是 QQ登录、微信登录、手机注册发送验证码所需的appkey和seecret，你需要分别去微信开放平台和QQ开放平台以及mob去申请自己的key。
+
+- [微信的申请教程地址http://docs.apicloud.com/Client-API/Open-SDK/wx](http://docs.apicloud.com/Client-API/Open-SDK/wx)
+- [QQ的申请地址](http://docs.apicloud.com/Client-API/Open-SDK/qq)
+- [smsVerify的申请地址](http://docs.apicloud.com/Client-API/Open-SDK/smsVerify)
+
 2. 复制你准备好的 s1.png s2.png s3.png，覆盖到项目文件夹下 image 文件夹中
+
 3. 打开**index.html**文件，将里面的 http://demo.xf512.com/xifeng/ 替换为你的 xifeng 文件夹所在网址，比如 你将接口文件夹 xifeng上传到了 www.abc.com 的根目录下，则这里填写 http://www.abc.com/xifeng/
+
 4. 打开 book 文件夹下 **faxian.html**文件夹， 找到约 92 行左右，将 **http://xf512.com/**替换为你的网址，将后面的两处 **西风工作室** 改成你的网站名称，这里的名称将显示在app发现页面，用户点击后就会打开你填写的网址
 
 ![](http://xf512.com/html/images/api15.jpg)
