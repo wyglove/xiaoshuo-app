@@ -4,8 +4,14 @@
 
 > 目前为主，专业版继续赠送app源码，安装[专业版小说插件](http://addon.discuz.com/?@jameson_read.plugin)的用户,请联系 
 > [![](http://wpa.qq.com/pa?p=2:2867557054:51)](http://wpa.qq.com/msgrd?v=3&uin=2867557054&site=qq&menu=yes) 索要源码
-> **下载演示app **
+> 
+
+**下载演示app **
 ![](http://xf512.com/html/images/demo.png)
+
+> 如果你还没有安装[小说阅读器插件http://addon.discuz.com/?@jameson_read.plugin](http://addon.discuz.com/?@jameson_read.plugin)，请去这个地址安装，去这个地址查看帮助文档[xf512.com/doc.php?name=jamesonread](http://xf512.com/doc.php?name=jamesonread)
+
+----
 
 ## 零:上传接口文件
 
