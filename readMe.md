@@ -7,9 +7,12 @@
 > 
 
 **下载演示app **
+
+
 ![](http://xf512.com/html/images/demo.png)
 
-> 如果你还没有安装[小说阅读器插件http://addon.discuz.com/?@jameson_read.plugin](http://addon.discuz.com/?@jameson_read.plugin)，请去这个地址安装，去这个地址查看帮助文档[xf512.com/doc.php?name=jamesonread](http://xf512.com/doc.php?name=jamesonread)
+
+> 如果你还没有安装[小说阅读器插件，请去这个地址安装http://addon.discuz.com/?@jameson_read.plugin](http://addon.discuz.com/?@jameson_read.plugin)，去这个地址查看帮助文档[xf512.com/doc.php?name=jamesonread](http://xf512.com/doc.php?name=jamesonread)
 
 ----
 
