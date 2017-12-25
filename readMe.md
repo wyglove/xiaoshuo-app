@@ -4,6 +4,10 @@
 
 后端接口程序使用的是 基于discuz x3.3 UTF-8 编码的一个插件，具体请去 https://doc.xf512.com/read/jamesonread_app.html  查看
 
+###  演示app
+
+![](https://doc.xf512.com/read/images/demo.png)
+
 ### 效果图预览(仅供参考)
 
 ![](https://doc.xf512.com/read/images/appyulan.jpg)
