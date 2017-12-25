@@ -1,8 +1,8 @@
-#使用app源码编译自己的 小说APP
+# 使用app源码编译自己的 小说APP
 
 ----
 
-后端程序使用的是 基于discuz x3.3 UTF-8 编码的一个插件，具体请去 https://doc.xf512.com/read/jamesonread_app.html  查看
+后端接口程序使用的是 基于discuz x3.3 UTF-8 编码的一个插件，具体请去 https://doc.xf512.com/read/jamesonread_app.html  查看
 
 ### 效果图预览(仅供参考)
 
@@ -14,13 +14,13 @@
 
 ----
 
-##零:上传接口文件
+## 零:上传接口文件
 
 解压索取的app源码压缩包，将接口文件夹下的xifeng文件夹，上传到 你安装插件的**网站根目录**下，然后到后台-插件-小说阅读器-手机版-拉到底部，看是否出现了app相关的选项，如果有，则全部填写，不要留空，如果没有，说明你上传的位置不对
 
 ![](https://doc.xf512.com/read/images/api12.jpg)
 
-##一：准备所需的资源
+## 一：准备所需的资源
 **apicloud studio 软件， 下载地址 http://www.apicloud.com/devtools**
 
 ![](https://doc.xf512.com/read/images/xiazai.png)
@@ -39,7 +39,7 @@
 ![](https://doc.xf512.com/read/images/zhuce.png)
 
 
-##二：登录www.apicloud.com网站
+## 二：登录www.apicloud.com网站
 
 登录地址为   http://www.apicloud.com/signin   ,用你之前注册的帐号密码登录，登录后 点击 **创建应用** 按钮
 
@@ -59,7 +59,7 @@
 
 证书信息随意填写
 
-###添加使用到的模块，下面是用到的模块名称
+### 添加使用到的模块，下面是用到的模块名称
 > smsVerify
 >
 > fileBrowser
@@ -90,7 +90,7 @@
 **复制 id，下面修改config.xml时需要用到**
 ![](https://doc.xf512.com/read/images/api6.jpg)
 
-##三：打开 apicloud studio 软件，同步源码
+## 三：打开 apicloud studio 软件，同步源码
 
 **双击刚才创建到桌面的快捷方式,打开此软件,提示登录,用你注册的apicloud帐号进行登录**
 
@@ -100,7 +100,7 @@
 
 ![](https://doc.xf512.com/read/images/denglu2.png)
 
-###开始从云端检出你创建的app到本地
+### 开始从云端检出你创建的app到本地
 **步骤1:工具栏--代码管理--代码检出--Apiclud云端应用**
 
 ![](https://doc.xf512.com/read/images/jianchu1.png)
