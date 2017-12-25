@@ -149,7 +149,7 @@
 3 . 打开 book 文件夹下 faxian.html 文件夹， 找到约 70 行左右，将 **demo.xf512.com/** 替换为你的网址，将后面的两处 西风工作室 改成你的网站名称，这里的名称将显示在app发现页面，用户点击后就会打开你填写的网址
 ![](https://doc.xf512.com/read/images/api15.jpg)
 
-##五:在 apicloud studio 软件中提交代码到apicloud平台
+## 五:在 apicloud studio 软件中提交代码到apicloud平台
 
 **修改完成后按下图所示进行代码提交**
 
@@ -173,7 +173,7 @@
 等待提交完成
 ![](https://doc.xf512.com/read/images/tijiao4.png)
 
-##六:在 apicloud studio 软件中编译app
+## 六:在 apicloud studio 软件中编译app
 
 这就是最后一步了，提交同步完成后，在软件左侧 项目名称上右键-云编译
 
