@@ -1,6 +1,6 @@
 # 使用app源码编译自己的 小说APP
 
-----
+
 
 > 后端管理程序使用的是基于discuz x3.3 UTF-8 编码的一个插件，如果打算使用dz和此插件作为后端管理程序，可去 https://doc.xf512.com/read/jamesonread_app.html  查看
 > 
