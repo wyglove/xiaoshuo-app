@@ -2,9 +2,10 @@
 
 ----
 
-后端接口程序使用的是 基于discuz x3.3 UTF-8 编码的一个插件，具体请去 https://doc.xf512.com/read/jamesonread_app.html  查看
+> 后端接口程序使用的是 基于discuz x3.3 UTF-8 编码的一个插件，如果打算使用dz和插件作为后端管理程序，可去 https://doc.xf512.com/read/jamesonread_app.html  查看
+> 
+> 当然你也可以根据此处提供的接口文件api.php 自行编写，而无需安装dz和插件，只要确保接口名称和返回的数据格式一致即可
 
-当然你也可以根据此处提供的接口文件api.php 自行编写，而无需安装dz和插件，只要确保接口名称和返回的数据格式一致即可
 
 ###  演示app
 
