@@ -6,7 +6,7 @@
 
 ###  演示app
 
-![](https://demo.xf512.com/xifeng/demo.png)
+![](https://doc.xf512.com/read/images/demo.png)
 
 ### 效果图预览(仅供参考)
 
